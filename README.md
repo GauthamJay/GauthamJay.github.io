@@ -1,1 +1,1 @@
-# GauthamJay.github.io
+# gauthamjay.github.io
