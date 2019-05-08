@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Gautham Jay
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.gauthamjay.theme_1.0_iphoneos-arm.deb
-Size: 11064
+Size: 10663788
 MD5sum: 1CDFC389E6140B4626F7BAD174116CB6
 SHA1: 5A884FF5441656AC6E1D6C66E72F6F9E74631BDE
 SHA256: ce18ed2eda4c43f01ace1f493527d1992eb881a17471917e17c1993c823d7de1
