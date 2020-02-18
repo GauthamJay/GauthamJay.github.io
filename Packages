@@ -1,0 +1,15 @@
+Package: com.gt2.veex2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Your Name
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.Veex2.deb
+Size: 38151834
+MD5sum: 57e207181f16e0305cf41b672d67e8e3
+SHA1: 657641040f3a6210409e594af696d6b2c3cf361b
+SHA256: a4ebded7ff70ac5bdfa8e06c9012fb9f959ef7bfdbae7cc1ee6b573a808a8449
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Your Name
+Name: Veex2
+
