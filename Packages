@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Your Name
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.Veex2.deb
+Filename: ./debs/com.gt2.Veex2.deb
 Size: 38151834
 MD5sum: 57e207181f16e0305cf41b672d67e8e3
 SHA1: 657641040f3a6210409e594af696d6b2c3cf361b
